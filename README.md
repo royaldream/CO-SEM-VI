@@ -1,2 +1,2 @@
 # CO-SEM-VI
-#get all project and code
+#get all project and code.

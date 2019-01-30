@@ -1,0 +1,111 @@
+<html>
+<head>
+<title>Assignment_5</title>
+
+<style>
+table
+{
+	width:60%;
+	background-color:rgba(255,255,0,0.75);
+	border-color:#F53218;
+	border-width:15px;
+}
+input{
+	background-color:rgba(255,205,120,0.85);
+}
+.header{
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+	width:55%;
+	margin:0 auto;
+	padding:15px;
+	background-color:gray;
+}
+</style>
+</head>
+<body>
+<form action="#" method="POST" onSubmit="onSubmit()">
+
+<h2 align="center" valign="center" class="header">Registration YourSelf</h2>
+
+<table border="2" align="center">
+<tr>
+	<td><label>Enter Your Name :</label></td>
+	<td> <input type="text" name="name" placeholder="Enter Name"></td>
+</tr>
+<tr>
+	<td><label>Enter Password :</label></td>
+	<td><input type="password" name="password1" placeholder="Enter Password"></td>
+</tr>
+<tr>
+	<td><label>Confirm Password :</label></td>
+	<td><input type="password" name="password2" placeholder="Confirm Password"></td>
+</tr>
+<tr>
+	<td>
+		<label>Address :</label>
+	</td>
+	<td>
+		<textarea rows="4" cols="30" name="address"></textarea>
+	</td>
+</tr>
+<tr>
+	<td><label>City :</label></td>
+	<td>
+		<select name="city">
+			<option>Surat</option>
+			<option>Ahmedabad</option>
+			<option>Vadodara</option>
+		</select>
+	</td>
+</tr>
+<tr>
+	<td><label>State :</label></td>
+	<td>
+		<select name="state">
+			<option>Gujarat</option>
+			<option>Rajasthan</option>
+			<option>Delhi</option>
+		</select>
+	</td>
+</tr>
+<tr>
+	<td><label>Contact Number :</label></td>
+	<td><input type="number" name="phone-no" placeholder="Enter Phone No."></td>
+</tr>
+<tr>
+	<td><label>E-Mail Address:</label></td>
+	<td><input type="email" name="email" placeholder="Enter E-Mail Address"></td>
+</tr>
+<tr>
+	<td><label>Gender :</label></td>
+	<td>
+		<input type="radio" name="gender" value="Male" checked>Male
+		<input type="radio" name="gender" value="Female">Female
+	</td>
+</tr>
+<tr>
+	<td><label>Area of Interest :</label></td>
+	<td>
+		<input type="checkbox" name="language" value="asp">ASP
+		<input type="checkbox" name="language" value="jsp">JSP
+		<input type="checkbox" name="language" value="php">PHP
+	</td>
+</tr>
+
+<tr>
+	<td align="center">
+		<input type="submit" value="Submit">
+	</td><td>
+		<input type="reset" value="Reset">
+	</td>
+</tr>
+
+</table>
+</form>
+<script src="./Practical_3.js"></script>
+
+</body>
+</html>
+

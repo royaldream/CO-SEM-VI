@@ -1,0 +1,8 @@
+E:\160420107046\GDI+\GDI+\bin\Debug\GDI+.exe
+E:\160420107046\GDI+\GDI+\bin\Debug\GDI+.pdb
+E:\160420107046\GDI+\GDI+\obj\x86\Debug\GDI_.Form1.resources
+E:\160420107046\GDI+\GDI+\obj\x86\Debug\GDI_.Properties.Resources.resources
+E:\160420107046\GDI+\GDI+\obj\x86\Debug\GDI+.csproj.GenerateResource.Cache
+E:\160420107046\GDI+\GDI+\obj\x86\Debug\GDI+.exe
+E:\160420107046\GDI+\GDI+\obj\x86\Debug\GDI+.pdb
+E:\160420107046\GDI+\GDI+\obj\x86\Debug\GDI+.csprojResolveAssemblyReference.cache

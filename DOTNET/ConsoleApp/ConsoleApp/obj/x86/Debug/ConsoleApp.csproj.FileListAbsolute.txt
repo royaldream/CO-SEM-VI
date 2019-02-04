@@ -1,0 +1,4 @@
+E:\160420107046\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+E:\160420107046\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+E:\160420107046\ConsoleApp\ConsoleApp\obj\x86\Debug\ConsoleApp.exe
+E:\160420107046\ConsoleApp\ConsoleApp\obj\x86\Debug\ConsoleApp.pdb

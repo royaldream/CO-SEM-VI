@@ -1,0 +1,20 @@
+<!--JS_Practical_7-->
+<html>
+<head><title>JS_Practical_7</title></head>
+<script>
+function fact(x)
+	{
+		if(x==1)
+			return 1;
+		else
+			return	x*fact(x-1);
+	}
+</script>
+<body>
+<script>
+	var no=prompt("Factorial No :-","");
+	var ans=fact(parseInt(no));
+	document.write(no+" :- "+ans);
+</script>
+</body>
+</html>

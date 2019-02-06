@@ -1,0 +1,24 @@
+<html>
+	<head>
+	<title>JS_Practical_8</title>
+	</head>
+	<body>
+	<script>
+		var cars= "TATA Motors,Maruti Suzuki,Hindustan Motors Limited,Ashok Leyland,Mahindra & Mahindra,Chinkara Motors,Opel,Eicher Motors";
+		var carArray=cars.split(",");
+			document.write("Splited Car Array<br><br>");
+		for(i=0;i<carArray.length;i++)
+			document.write(carArray[i]+"<br>");
+				
+			document.write("<br>Sorted Array<br><br>");
+			carArray.sort();
+				for(i=0;i<carArray.length;i++)
+			document.write(carArray[i]+"<br>");
+			
+			document.write("<br>Reverse Array<br><br>");
+			carArray.reverse();
+				for(i=0;i<carArray.length;i++)
+			document.write(carArray[i]+"<br>");
+	</script>
+	</body>
+</html>

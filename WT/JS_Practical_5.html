@@ -1,0 +1,26 @@
+<!--JS_Practical_3.html-->
+<html>
+<head><title>JS_Practical_5</title></head>
+<body>
+<script>
+	var birthDate=prompt("Date Of Birth (DD/MM/YYYY) :-","");
+	var date=birthDate.split("/");
+	var bod=new Date(parseInt(date[2]),parseInt(date[1])-1,parseInt(date[0]));
+	var sysDate=new Date();
+	var month=sysDate.getMonth();
+	var year=sysDate.getFullYear();
+	var days=sysDate.getDay();
+	age = year - parseInt(date[2]);
+	if ( month < (parseInt(date[1]) - 1))
+    {
+        age--;
+    }
+    if (((parseInt(date[1]) - 1) == month) && (days < parseInt(date[0])))
+    {
+        age--;
+    }
+	document.write("Age :-"+age+"<br>Date Of Birth :- "+bod);
+</script>
+</body>
+</html>
+

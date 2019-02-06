@@ -1,0 +1,23 @@
+<!--JS_Practical_4.html-->
+<html>
+<head>
+	<title>JS_Practical_4</title>
+</head>
+<body>
+<script>
+	var number=prompt("Number :- ","");
+	var n=parseInt(number);
+	flag=false;
+	//document.write(n+number);
+	for(var i=2;i<n/2;i++)
+	{
+		if(n%i==0)
+			flag=true;
+	}
+	if(flag)
+		document.write("Not Prime");
+	else
+		document.write("Prime");
+</script>
+</body>
+</html>

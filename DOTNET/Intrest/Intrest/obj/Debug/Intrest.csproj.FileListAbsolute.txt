@@ -1,0 +1,6 @@
+E:\160420107046\DOTNET\Intrest\Intrest\bin\Debug\Intrest.dll
+E:\160420107046\DOTNET\Intrest\Intrest\bin\Debug\Intrest.pdb
+E:\160420107046\DOTNET\Intrest\Intrest\obj\Debug\Intrest.UserControl1.resources
+E:\160420107046\DOTNET\Intrest\Intrest\obj\Debug\Intrest.csproj.GenerateResource.Cache
+E:\160420107046\DOTNET\Intrest\Intrest\obj\Debug\Intrest.dll
+E:\160420107046\DOTNET\Intrest\Intrest\obj\Debug\Intrest.pdb

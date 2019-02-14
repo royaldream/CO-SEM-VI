@@ -1,0 +1,10 @@
+E:\160420107046\DOTNET\Practical_2_2\Practical_2_2\bin\Debug\Practical_2_2.exe
+E:\160420107046\DOTNET\Practical_2_2\Practical_2_2\bin\Debug\Practical_2_2.pdb
+E:\160420107046\DOTNET\Practical_2_2\Practical_2_2\obj\x86\Debug\Practical_2_2.Form1.resources
+E:\160420107046\DOTNET\Practical_2_2\Practical_2_2\obj\x86\Debug\Practical_2_2.Properties.Resources.resources
+E:\160420107046\DOTNET\Practical_2_2\Practical_2_2\obj\x86\Debug\Practical_2_2.csproj.GenerateResource.Cache
+E:\160420107046\DOTNET\Practical_2_2\Practical_2_2\obj\x86\Debug\Practical_2_2.exe
+E:\160420107046\DOTNET\Practical_2_2\Practical_2_2\obj\x86\Debug\Practical_2_2.pdb
+E:\160420107046\DOTNET\Practical_2_2\Practical_2_2\bin\Debug\Intrest.dll
+E:\160420107046\DOTNET\Practical_2_2\Practical_2_2\bin\Debug\Intrest.pdb
+E:\160420107046\DOTNET\Practical_2_2\Practical_2_2\obj\x86\Debug\Practical_2_2.Practical_2_8.resources
